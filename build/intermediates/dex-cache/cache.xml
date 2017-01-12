@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        jar="C:\Users\Miguel\AppData\Local\Android\sdk\extras\android\m2repository\com\android\support\support-annotations\21.0.3\support-annotations-21.0.3.jar"
+        jumboMode="true"
+        revision="21.1.2"
+        sha1="4b74cefe1f0c1b819e7260c8627a14674e37fd35">
+        <dex dex="C:\PROJECTS\Android Studio\TipCalculatorApp\app\build\intermediates\pre-dexed\debug\support-annotations-21.0.3_88cdb2d9f5317330eb926ebdaa7e5600d9d41d9e.jar" />
+    </item>
+    <item
+        jar="C:\PROJECTS\Android Studio\TipCalculatorApp\app\build\intermediates\exploded-aar\com.android.support\support-v4\21.0.3\jars\libs\internal_impl-21.0.3.jar"
+        jumboMode="true"
+        revision="21.1.2"
+        sha1="01ec05bfbafcc07646ba813000bf2ef11742dd03">
+        <dex dex="C:\PROJECTS\Android Studio\TipCalculatorApp\app\build\intermediates\pre-dexed\debug\internal_impl-21.0.3_fac836ab0ddcdebde1a203f3bb7a3c6b57d5b462.jar" />
+    </item>
+    <item
+        jar="C:\PROJECTS\Android Studio\TipCalculatorApp\app\build\intermediates\exploded-aar\com.android.support\support-v4\21.0.3\jars\classes.jar"
+        jumboMode="true"
+        revision="21.1.2"
+        sha1="2c91c949a45a21cdecf26e03951e46c7beec9ad8">
+        <dex dex="C:\PROJECTS\Android Studio\TipCalculatorApp\app\build\intermediates\pre-dexed\debug\com.android.support-support-v4-21.0.3_e38034060539f39166fe02a8d14491932ff85b7e.jar" />
+    </item>
+    <item
+        jar="C:\PROJECTS\Android Studio\TipCalculatorApp\app\build\intermediates\incremental-runtime-classes\debug\instant-run.jar"
+        jumboMode="true"
+        revision="21.1.2"
+        sha1="66c322d599fc21aaf3eeb7730ab5706e2daafb51">
+        <dex dex="C:\PROJECTS\Android Studio\TipCalculatorApp\app\build\intermediates\pre-dexed\debug\instant-run_c68e87d863f842551e8ff54256ac249318cf8009.jar" />
+    </item>
+    <item
+        jar="C:\PROJECTS\Android Studio\TipCalculatorApp\app\build\intermediates\exploded-aar\com.android.support\appcompat-v7\21.0.3\jars\classes.jar"
+        jumboMode="true"
+        revision="21.1.2"
+        sha1="81d42bf983a8741f4888a6e333e454e4a5e0eeb7">
+        <dex dex="C:\PROJECTS\Android Studio\TipCalculatorApp\app\build\intermediates\pre-dexed\debug\com.android.support-appcompat-v7-21.0.3_9026e9c1e176aac8b2e38ce69fca709fd27ff69a.jar" />
+    </item>
+    <item
+        jar="C:\PROJECTS\Android Studio\TipCalculatorApp\app\build\intermediates\incremental-classes\debug\instant-run-bootstrap.jar"
+        jumboMode="true"
+        revision="21.1.2"
+        sha1="47f62d1f85e75743eb4c3a925e1524c8c78c96e3">
+        <dex dex="C:\PROJECTS\Android Studio\TipCalculatorApp\app\build\intermediates\pre-dexed\debug\instant-run-bootstrap_c7be0e7cbf5e20e4216b23b918e0f562bc88c455.jar" />
+    </item>
+
+</items>
